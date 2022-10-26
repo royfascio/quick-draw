@@ -1,0 +1,19 @@
+body{
+    background-color:lightgreen;
+}
+ 
+#score{
+    font-size: medium;
+    margin-left: 120px;
+
+}
+
+#timer{
+    font-size: medium;
+    float: right;
+    margin-right: 120px;
+}
+
+#drawnsketch{
+    color: black;
+}
